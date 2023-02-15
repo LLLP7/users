@@ -16,13 +16,13 @@
     "success_url": "https://t.me/k_8_u",
     "env": {
         "BOT_TOKEN": {
-            "description": "ضع التوكن الخاص بك https://t.me/BotFather"
+            "description": "5920496145:AAHa6yfqQgdQoO5DGmV4ZxGta5Ihpc7hSn0"
         },
         "SUDO": {
-            "description": "ضع الايدي الخاص بك"
+            "description": "5613933799"
         },
         "HEROKU": {
-            "description": "اسم التطبيق [خلي نفس اول شي لتغيير]",
+            "description": "bdr",
             "required": "False",
             "value": ""
         }
